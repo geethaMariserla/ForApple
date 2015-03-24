@@ -28,13 +28,13 @@ public class Task1pages extends BasePage{
 public void launchApplication() throws IOException
 {
 	
-	driver = new FirefoxDriver();
+	/*driver = new FirefoxDriver();
 	driver.manage().deleteAllCookies();
     driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     driver.manage().window().maximize();
 	 driver.get("file:///C:/developApp/homepage.html");
 	 //Comment for github
-    
+*/    
     
 }
 
