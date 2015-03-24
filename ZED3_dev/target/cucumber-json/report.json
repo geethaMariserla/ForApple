@@ -1,0 +1,55 @@
+[
+  {
+    "id": "test-login",
+    "description": "",
+    "name": "Test Login",
+    "keyword": "Feature",
+    "line": 2,
+    "elements": [
+      {
+        "id": "test-login;login-success-and-failure;;2",
+        "tags": [
+          {
+            "name": "@run",
+            "line": 3
+          }
+        ],
+        "description": "",
+        "name": "Login Success and Failure",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "name": "I navigate to the mock application",
+            "keyword": "Given ",
+            "line": 5,
+            "match": {}
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "name": "i did",
+            "keyword": "When ",
+            "line": 6,
+            "match": {}
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "name": "that",
+            "keyword": "Then ",
+            "line": 7,
+            "match": {}
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "artifacts/pack1/features/ecommerce/qwert.feature"
+  }
+]
